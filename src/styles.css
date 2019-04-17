@@ -1,1 +1,33 @@
-/* You can add global styles to this file, and also import other style files */
+root {
+  font-size: 62.5%;
+  /* ---------------------------------------------------------------------- */
+  /* ------ Custom Variables ---------------------------------------------- */
+  /* ---------------------------------------------------------------------- */
+  --custom-blue: 47, 128, 237;
+  --custom-green: 39, 174, 96;
+  --custom-orange: 242, 153, 74;
+  --custom-red: 235, 87, 87;
+  --custom-purple: 155, 81, 224;
+  --custom-brown: 196, 130, 93;
+  --vv-dull-gray: 249, 249, 249;
+  --v-dull-gray: 222, 228, 237;
+  --dull-gray: 205, 212, 223;
+  --normal-gray: 180, 191, 207;
+  --bright-gray: 143, 153, 169;
+  --v-bright-gray: 122, 132, 148;
+  --primary-gray: 255, 255, 255;
+  --secondary-gray: 000, 000, 000;
+  --pure-white: 255, 255, 255;
+  --primary-bg: 255, 255, 255;
+  --secondary-bg: #fafafa;
+  --ternary-bg: #f3f3f3;
+  --input-bg: #ffffff;
+  --hover-bg: #fbfbfb;
+  --dropdown-hover-bg: #fbfbfb;
+  --table-header-bg: #f1f3f4;
+  --table-row-odd-bg: #fdfdfd;
+  --table-row-even-bg: #fafafa;
+  --table-row-hover-bg: #f4f8ff;
+  --separator-gray: #f0f0f0;
+  --border-gray: 222, 228, 237;
+}
